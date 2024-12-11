@@ -1,0 +1,30 @@
+.details{
+    margin-left:auto;
+}
+.colour{
+    background-color: black;
+}
+.nav-border{
+    border-bottom: 2px solid black;
+}
+.container{
+    margin-top: 50px;
+    padding:0px;
+    box-sizing:border-box;
+    height:50%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #f1f1f1;
+    
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:  black;
+    color: white;
+    text-align: center;
+}
