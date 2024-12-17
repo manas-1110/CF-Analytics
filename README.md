@@ -1,6 +1,6 @@
 # CF Analytics
 
-This is code repository for a simple analytics visualization site for [Codeforces online judge](http://codeforces.com/) users using [Codeforces API](https://codeforces.com/apiHelp).
+This is code repository for a simple analytics visualization site for [Codeforces online judge](http://codeforces.com/) users using [Codeforces API](https://codeforces.com/apiHelp) and can be used [here](https://manas-1110.github.io/CF-Analytics/).
 
 ### Current features
 
